@@ -1,0 +1,15 @@
+C:\Users\Ilin.A\Desktop\New folder (2)\Final_Task\T\Final_task_Choice_of_specialization_GB\bin\Debug\net6.0\Final_task_Choice_of_specialization_GB.exe
+C:\Users\Ilin.A\Desktop\New folder (2)\Final_Task\T\Final_task_Choice_of_specialization_GB\bin\Debug\net6.0\Final_task_Choice_of_specialization_GB.deps.json
+C:\Users\Ilin.A\Desktop\New folder (2)\Final_Task\T\Final_task_Choice_of_specialization_GB\bin\Debug\net6.0\Final_task_Choice_of_specialization_GB.runtimeconfig.json
+C:\Users\Ilin.A\Desktop\New folder (2)\Final_Task\T\Final_task_Choice_of_specialization_GB\bin\Debug\net6.0\Final_task_Choice_of_specialization_GB.dll
+C:\Users\Ilin.A\Desktop\New folder (2)\Final_Task\T\Final_task_Choice_of_specialization_GB\bin\Debug\net6.0\Final_task_Choice_of_specialization_GB.pdb
+C:\Users\Ilin.A\Desktop\New folder (2)\Final_Task\T\Final_task_Choice_of_specialization_GB\obj\Debug\net6.0\Final_task_Choice_of_specialization_GB.csproj.AssemblyReference.cache
+C:\Users\Ilin.A\Desktop\New folder (2)\Final_Task\T\Final_task_Choice_of_specialization_GB\obj\Debug\net6.0\Final_task_Choice_of_specialization_GB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilin.A\Desktop\New folder (2)\Final_Task\T\Final_task_Choice_of_specialization_GB\obj\Debug\net6.0\Final_task_Choice_of_specialization_GB.AssemblyInfoInputs.cache
+C:\Users\Ilin.A\Desktop\New folder (2)\Final_Task\T\Final_task_Choice_of_specialization_GB\obj\Debug\net6.0\Final_task_Choice_of_specialization_GB.AssemblyInfo.cs
+C:\Users\Ilin.A\Desktop\New folder (2)\Final_Task\T\Final_task_Choice_of_specialization_GB\obj\Debug\net6.0\Final_task_Choice_of_specialization_GB.csproj.CoreCompileInputs.cache
+C:\Users\Ilin.A\Desktop\New folder (2)\Final_Task\T\Final_task_Choice_of_specialization_GB\obj\Debug\net6.0\Final_task_Choice_of_specialization_GB.dll
+C:\Users\Ilin.A\Desktop\New folder (2)\Final_Task\T\Final_task_Choice_of_specialization_GB\obj\Debug\net6.0\refint\Final_task_Choice_of_specialization_GB.dll
+C:\Users\Ilin.A\Desktop\New folder (2)\Final_Task\T\Final_task_Choice_of_specialization_GB\obj\Debug\net6.0\Final_task_Choice_of_specialization_GB.pdb
+C:\Users\Ilin.A\Desktop\New folder (2)\Final_Task\T\Final_task_Choice_of_specialization_GB\obj\Debug\net6.0\Final_task_Choice_of_specialization_GB.genruntimeconfig.cache
+C:\Users\Ilin.A\Desktop\New folder (2)\Final_Task\T\Final_task_Choice_of_specialization_GB\obj\Debug\net6.0\ref\Final_task_Choice_of_specialization_GB.dll
