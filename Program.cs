@@ -5,18 +5,18 @@ PrintArray(arraySecond);
 
 string[] TransformArray(string[] array)
 {
-    int LengthNewArray = 0;
+    int lengthNewArray = 0;
     int count = 0;
 
     for (int i = 0; i < array.Length; i++)
     {
         if (array[i].Length <= 3)
         {
-            LengthNewArray++;
+            lengthNewArray++;
         }
     }
 
-    string[] newArray = new string[LengthNewArray];
+    string[] newArray = new string[lengthNewArray];
 
     for (int i = 0; i < array.Length; i++)
     {
